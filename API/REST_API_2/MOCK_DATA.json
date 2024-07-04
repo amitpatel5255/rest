@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "first_name": "Abba",
+        "last_name": "Mersh",
+        "email": "amersh0@vkontakte.ru",
+        "gender": "Male",
+        "Job_title": "Computer Systems Analyst II"
+    },
+    {
+        "id": 2,
+        "first_name": "Claudina",
+        "last_name": "O'Cassidy",
+        "email": "cocassidy1@dailymotion.com",
+        "gender": "Bigender",
+        "Job_title": "General Manager"
+    },
+    {
+        "id": 3,
+        "first_name": "Deb",
+        "last_name": "Gravie",
+        "email": "dgravie2@themeforest.net",
+        "gender": "Non-binary",
+        "Job_title": "Administrative Assistant II"
+    },
+    {
+        "id": 4,
+        "first_name": "Ludovico",
+        "last_name": "Dingwall",
+        "email": "ldingwall3@php.net",
+        "gender": "Male",
+        "Job_title": "VP Marketing"
+    },
+    {
+        "id": 5,
+        "first_name": "Benni",
+        "last_name": "Moodycliffe",
+        "email": "bmoodycliffe4@imgur.com",
+        "gender": "Female",
+        "Job_title": "Registered Nurse"
+    }
+]
